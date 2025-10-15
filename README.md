@@ -5,6 +5,14 @@ A modern task management web application built with **Node.js** and **vanilla Ja
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Node.js](https://img.shields.io/badge/node-%3E%3D14.0.0-green.svg)
 
+## 🎥 Demo Video
+
+Watch the full demo video to see the Smart Task Planner in action:
+
+[**📹 Download demo.mp4**](demo.mp4)
+
+> **Note:** The demo video (186 MB) is stored using Git LFS. Click the link above to view or download it from GitHub.
+
 ## ✨ Features
 
 - ✅ Create, edit, and delete tasks with priorities
